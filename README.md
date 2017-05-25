@@ -6,3 +6,6 @@ date
 cal
 head
 tail
+mv 
+rm
+mkdir
